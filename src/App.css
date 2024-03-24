@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+}
+.alignCenter {
+  align-items: center;
+}
+.column {
+  flex-direction: column;
+}
+.justifyCenter {
+  justify-content: center;
+}
+.justifyBetween {
+  justify-content: space-between;
+}
+.wf-100 {
+  width: 100%;
+}
+
+.App {
+  padding: 10rem 24rem;
+  width: 100vw;
+  height: 100vh;
+  background-color: aliceblue;
+}
