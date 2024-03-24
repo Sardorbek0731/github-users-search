@@ -1,3 +1,4 @@
+// CSS
 import "./User.css";
 
 function User() {
